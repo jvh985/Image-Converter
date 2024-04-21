@@ -20,4 +20,4 @@ def emit(self, *args: typing.Any) -> None: ...
 
 The warnings will then disappear and you can see connect is a method of clicked.
 
-This solution is from user: Scott Weiss on: [Stackoverflow](https://stackoverflow.com/questions/65944846/pyqt5-returnpressed-connect-cannot-find-reference-connect-in-function)
+This solution is from user: Scott Weiss on: <a href="https://stackoverflow.com/questions/65944846/pyqt5-returnpressed-connect-cannot-find-reference-connect-in-function" target="_blank">Stackoverflow</a>
